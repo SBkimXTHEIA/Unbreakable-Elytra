@@ -1,0 +1,7 @@
+name: Unbreakable-Elytra
+version: '${version}'
+main: io.github.sbkimxtheia.unbreakableelytra.UnbreakableElytra
+api-version: 1.17
+load: STARTUP
+authors: [ SBkimXTHEIA ]
+description: Your Elytra will not be damaged forever.
